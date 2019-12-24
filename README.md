@@ -2,7 +2,7 @@
 
 ## About this tool
 
-`Localizable.strings`ファイルからSwiftのEnum定義ファイルを作成します。
+`Localizable.strings`ファイルからSwiftのEnum定義ファイルを作成する
 
 ## Build 
 
