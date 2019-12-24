@@ -52,13 +52,6 @@ func main() {
 		fmt.Fprintln(fp,str)
 		fmt.Println(str)
 	}
-	fmt.Fprintln(fp, `    var localized: String {
-        NSLocalizedString(self.rawValue, comment: self.rawValue)
-    }
-    
-    func localized(withTableName tableName: String? = nil, bundle: Bundle = Bundle.main, value: String = "") -> String {
-        NSLocalizedString(self.rawValue, tableName: tableName, bundle: bundle, value: value, comment: self.rawValue)
-    }`)
 
 	fmt.Fprintln(fp, "}")
 
