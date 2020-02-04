@@ -35,8 +35,3 @@ Help Options:
   -h, --help                  Show this help message
 ```
 
-
-## Issue 😫
-
-- [ ] `NSLocalizeStrings`の`Extension`もこのツール上で書く
-- [ ] 前回との差分比較を行う
