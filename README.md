@@ -7,7 +7,7 @@
 ## Build 
 
 ```
-$ go build localizableStrings2Enum.go
+$ go build -o ./bin
 ```
 
 ## Usage
